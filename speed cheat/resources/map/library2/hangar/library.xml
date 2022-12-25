@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library name="Hangar T">
+    <prop-group name="default">
+        <prop name="Hangar T">
+            <mesh file="hang_t.3ds">
+                <texture name="hangar" diffuse-map="hangar_t.jpg"/>
+            </mesh>
+        </prop>
+    </prop-group>
+</library>
